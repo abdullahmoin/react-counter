@@ -1,6 +1,15 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<br>
+<br>
+> This is a tiny application is like adding counter, increment, decrement, reseting with bootstrap design kits. This is a very basic app but useful to understand the React components, States, Props, Object Destructuring, map(), filter(), and jsx elements.
+
+### Live Preview URL:
+[http://mreact-counter.surge.sh/](http://mreact-counter.surge.sh/)
+
+
+
 
 ## Available Scripts
 
